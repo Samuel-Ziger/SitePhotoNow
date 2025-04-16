@@ -1,0 +1,3983 @@
+.loja,
+.loja * {
+  box-sizing: border-box;
+}
+.loja {
+  background: linear-gradient(
+    180deg,
+    rgba(194, 180, 234, 1) 0%,
+    rgba(163, 151, 198, 1) 100%
+  );
+  height: 6642px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-47 {
+  background: #8c73c9;
+  width: 1512px;
+  height: 1867px;
+  position: absolute;
+  left: 0px;
+  top: 3065px;
+}
+.rectangle-26 {
+  background: linear-gradient(
+    91.1deg,
+    rgba(239, 232, 255, 0.02) 0%,
+    rgba(194, 180, 234, 1) 100%
+  );
+  width: 1512px;
+  height: 576px;
+  position: absolute;
+  left: 1512px;
+  top: 100px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  object-fit: cover;
+}
+.rectangle-24 {
+  background: #efe8ff;
+  width: 1512px;
+  height: 383px;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+}
+.pattern-png-1 {
+  width: 3869px;
+  height: 2176px;
+  position: absolute;
+  left: -559px;
+  top: -1422px;
+  mix-blend-mode: overlay;
+  object-fit: cover;
+  aspect-ratio: 3869/2176;
+}
+.rectangle-18 {
+  background: #efefef;
+  width: 1512px;
+  height: 1145px;
+  position: absolute;
+  left: 0px;
+  top: 1931px;
+}
+.menu {
+  background: #f2eff9;
+  padding: 20px 136px 20px 136px;
+  display: flex;
+  flex-direction: row;
+  gap: 36px;
+  align-items: center;
+  justify-content: center;
+  width: 1512px;
+  height: 100px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.camada-1 {
+  flex-shrink: 0;
+  width: 295px;
+  height: 57px;
+  position: relative;
+  overflow: hidden;
+}
+.vector {
+  width: 10.62%;
+  height: 56.58%;
+  position: absolute;
+  right: 89.38%;
+  left: 0%;
+  bottom: 23.67%;
+  top: 19.75%;
+  overflow: visible;
+}
+.vector2 {
+  width: 7.74%;
+  height: 58.75%;
+  position: absolute;
+  right: 80.76%;
+  left: 11.5%;
+  bottom: 24.96%;
+  top: 16.29%;
+  overflow: visible;
+}
+.vector3 {
+  width: 6.23%;
+  height: 44.84%;
+  position: absolute;
+  right: 73.61%;
+  left: 20.16%;
+  bottom: 23.41%;
+  top: 31.75%;
+  overflow: visible;
+}
+.vector4 {
+  width: 6.38%;
+  height: 49.4%;
+  position: absolute;
+  right: 66.62%;
+  left: 27.01%;
+  bottom: 22.19%;
+  top: 28.41%;
+  overflow: visible;
+}
+.vector5 {
+  width: 6.23%;
+  height: 44.84%;
+  position: absolute;
+  right: 59.83%;
+  left: 33.94%;
+  bottom: 23.41%;
+  top: 31.75%;
+  overflow: visible;
+}
+.group {
+  width: 0.52%;
+  height: 29.04%;
+  position: absolute;
+  right: 23.27%;
+  left: 76.21%;
+  bottom: 28.08%;
+  top: 42.88%;
+  overflow: visible;
+}
+.group2 {
+  width: 6.28%;
+  height: 45.16%;
+  position: absolute;
+  right: 14.14%;
+  left: 79.58%;
+  bottom: 21.08%;
+  top: 33.76%;
+  overflow: visible;
+}
+.group3 {
+  height: auto;
+  position: absolute;
+  left: 255.56px;
+  top: 6.54px;
+  overflow: visible;
+}
+.group4 {
+  height: auto;
+  position: absolute;
+  left: 207.86px;
+  top: 17.93px;
+  overflow: visible;
+}
+.group5 {
+  width: 23.27%;
+  height: 86.58%;
+  position: absolute;
+  right: 33.05%;
+  left: 43.68%;
+  bottom: 2.31%;
+  top: 11.11%;
+  overflow: visible;
+}
+.vector6 {
+  width: 5.33%;
+  height: 17.35%;
+  position: absolute;
+  right: 48.43%;
+  left: 46.24%;
+  bottom: 59.51%;
+  top: 23.14%;
+  overflow: visible;
+}
+.vector7 {
+  width: 10.25%;
+  height: 53.61%;
+  position: absolute;
+  right: 36.12%;
+  left: 53.62%;
+  bottom: 18.8%;
+  top: 27.6%;
+  overflow: visible;
+}
+.vector8 {
+  width: 5.99%;
+  height: 31.31%;
+  position: absolute;
+  right: 38.25%;
+  left: 55.76%;
+  bottom: 29.95%;
+  top: 38.74%;
+  overflow: visible;
+}
+.vector9 {
+  width: 3.82%;
+  height: 7.15%;
+  position: absolute;
+  right: 49.48%;
+  left: 46.7%;
+  bottom: 92.85%;
+  top: 0%;
+  overflow: visible;
+}
+.vector10 {
+  width: 23.81%;
+  height: 89.4%;
+  position: absolute;
+  right: 32.78%;
+  left: 43.41%;
+  bottom: 1.13%;
+  top: 9.47%;
+  overflow: visible;
+}
+.frame-4 {
+  display: flex;
+  flex-direction: row;
+  gap: 11px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.login {
+  color: #e72f63;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16.832578659057617px;
+  font-weight: 400;
+  position: relative;
+}
+.line-3 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #e72f63;
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 22px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.onde-estamos {
+  color: #e72f63;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16.832578659057617px;
+  font-weight: 400;
+  position: relative;
+}
+.line-4 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #e72f63;
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 22px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.loja2 {
+  color: #e72f63;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 16.832578659057617px;
+  font-weight: 700;
+  position: relative;
+}
+.line-5 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #e72f63;
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 22px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.a-photo-now {
+  color: #e72f63;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16.832578659057617px;
+  font-weight: 400;
+  position: relative;
+}
+.line-6 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #e72f63;
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 22px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.rea-do-parceiro {
+  color: #e72f63;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16.832578659057617px;
+  font-weight: 400;
+  position: relative;
+}
+.group-1 {
+  flex-shrink: 0;
+  width: 290.73px;
+  height: 60px;
+  position: static;
+}
+.rectangle-3 {
+  background: #e72f63;
+  border-radius: 35px;
+  width: 290.73px;
+  height: 60px;
+  position: absolute;
+  left: 1086.64px;
+  top: 20px;
+}
+.seja-um-franqueado {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 1107.64px;
+  top: 35px;
+  width: 248px;
+}
+.ellipse-1 {
+  background: #e72f63;
+  border-radius: 50%;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+  left: 705px;
+  top: 64px;
+}
+.rectangle-7 {
+  background: #efefef;
+  width: 1512px;
+  height: 942px;
+  position: absolute;
+  left: 0px;
+  top: 672px;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.sua-hist-ria-merece-ser-impressa {
+  text-align: left;
+  text-transform: uppercase;
+  position: absolute;
+  left: 171px;
+  top: 264px;
+}
+.sua-hist-ria-merece-ser-impressa-span {
+  color: #11171f;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 48px;
+  line-height: 86.31%;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+.sua-hist-ria-merece-ser-impressa-span2 {
+  color: #563f91;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 77px;
+  line-height: 86.31%;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.line-7 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 159px;
+  height: 0px;
+  position: absolute;
+  left: 136px;
+  top: 239px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.rectangle-29 {
+  background: #e6e6e6;
+  width: 771px;
+  height: 929px;
+  position: absolute;
+  left: 756px;
+  top: 2147px;
+}
+.group-12 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-32 {
+  background: #e72f63;
+  border-radius: 53px;
+  width: 341px;
+  height: 60px;
+  position: absolute;
+  left: 136px;
+  top: 440px;
+}
+.explorar-nossa-loja {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 169.87px;
+  top: 455px;
+  width: 272.27px;
+}
+.rectangle-9 {
+  width: 1512px;
+  height: 701px;
+  position: absolute;
+  left: 1512px;
+  top: 1536px;
+  transform: translate(-1512px, 0px);
+  overflow: visible;
+}
+.rectangle-28 {
+  background: #ff7bd2;
+  border-radius: 30px;
+  width: 924px;
+  height: 376px;
+  position: absolute;
+  left: 137px;
+  top: 1065px;
+}
+.escolha-o-seu-plano-photo-now-para-receber-fotos-reveladas-mensalmente-em-sua-casa {
+  color: #563f91;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 48px;
+  line-height: 118.69%;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 137px;
+  top: 2323px;
+  width: 505px;
+  height: 343px;
+}
+.escolha-o-seu-plano-photo-now-para-receber-fotos-reveladas-mensalmente-em-sua-casa-span {
+  color: #563f91;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 118.69%;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.escolha-o-seu-plano-photo-now-para-receber-fotos-reveladas-mensalmente-em-sua-casa-span2 {
+  color: #563f91;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 48px;
+  line-height: 118.69%;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.escolha-o-seu-plano-photo-now-para-receber-fotos-reveladas-mensalmente-em-sua-casa-span3 {
+  color: #563f91;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 118.69%;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.escolha-o-seu-plano-photo-now-para-receber-fotos-reveladas-mensalmente-em-sua-casa-span4 {
+  color: #563f91;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 48px;
+  line-height: 118.69%;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.escolha-o-seu-plano-photo-now-para-receber-fotos-reveladas-mensalmente-em-sua-casa-span5 {
+  color: #563f91;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 118.69%;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.viva-essa-experi-ncia-completa-e-nica-com-as-suas-mem-rias {
+  color: #8c73c9;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 134%;
+  font-weight: 400;
+  position: absolute;
+  left: 137px;
+  top: 2734px;
+  width: 519px;
+  height: 69px;
+}
+.para-quem-ama-fotos-reveladas-de-verdade {
+  color: #ffffff;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  line-height: 146.74%;
+  font-weight: 400;
+  position: absolute;
+  left: 500px;
+  top: 1738px;
+  width: 512px;
+  height: 30px;
+}
+.para-quem-ama-fotos-reveladas-de-verdade-span {
+  color: #ffffff;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 146.74%;
+  font-weight: 400;
+}
+.para-quem-ama-fotos-reveladas-de-verdade-span2 {
+  color: #ffffff;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 146.74%;
+  font-weight: 700;
+}
+.para-quem-ama-fotos-reveladas-de-verdade-span3 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 146.74%;
+  font-weight: 400;
+}
+.group-23 {
+  position: absolute;
+  inset: 0;
+}
+.o-seu-clube-de-fotos {
+  color: #000000;
+  text-align: center;
+  text-transform: uppercase;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 1628px;
+  width: 421px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.o-seu-clube-de-fotos-span {
+  color: #000000;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 29px;
+  line-height: 106.25%;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.o-seu-clube-de-fotos-span2 {
+  color: #000000;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 106.25%;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.rectangle-17 {
+  border-radius: 49px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 163px;
+  height: 40px;
+  position: absolute;
+  left: 675px;
+  top: 1624px;
+}
+.group-31 {
+  position: absolute;
+  inset: 0;
+}
+.conhe-a-nossas-fotos {
+  color: #efefef;
+  text-align: center;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 201px);
+  top: 3171px;
+  width: 421px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.conhe-a-nossas-fotos-span {
+  color: #efefef;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 29px;
+  line-height: 106.25%;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.conhe-a-nossas-fotos-span2 {
+  color: #efefef;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 106.25%;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.rectangle-172 {
+  border-radius: 49px;
+  border-style: solid;
+  border-color: #efefef;
+  border-width: 1px;
+  width: 247px;
+  height: 40px;
+  position: absolute;
+  left: 642px;
+  top: 3167px;
+}
+.group-32 {
+  position: absolute;
+  inset: 0;
+}
+.conhe-a-nossos-lbuns {
+  color: #efefef;
+  text-align: center;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 201px);
+  top: 4033px;
+  width: 421px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.conhe-a-nossos-lbuns-span {
+  color: #efefef;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 29px;
+  line-height: 106.25%;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.conhe-a-nossos-lbuns-span2 {
+  color: #efefef;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 106.25%;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.rectangle-173 {
+  border-radius: 49px;
+  border-style: solid;
+  border-color: #efefef;
+  border-width: 1px;
+  width: 247px;
+  height: 40px;
+  position: absolute;
+  left: 642px;
+  top: 4029px;
+}
+.line-18 {
+  width: 190px;
+  height: 0px;
+  position: absolute;
+  left: 346px;
+  top: 1017px;
+  transform: translate(-3.5px, -3.5px);
+  overflow: visible;
+}
+.line-20 {
+  width: 190px;
+  height: 0px;
+  position: absolute;
+  left: 137px;
+  top: 2701px;
+  transform: translate(-3.5px, -3.5px);
+  overflow: visible;
+}
+.component-1 {
+  width: 1223px;
+  height: 210px;
+  position: absolute;
+  right: 168px;
+  bottom: 93px;
+}
+.camada-12 {
+  width: 24.12%;
+  height: 27.14%;
+  position: absolute;
+  right: 75.88%;
+  left: 0%;
+  bottom: 72.86%;
+  top: 0%;
+  overflow: hidden;
+}
+.vector11 {
+  width: 10.62%;
+  height: 56.58%;
+  position: absolute;
+  right: 89.38%;
+  left: 0%;
+  bottom: 23.67%;
+  top: 19.75%;
+  overflow: visible;
+}
+.vector12 {
+  width: 7.74%;
+  height: 58.75%;
+  position: absolute;
+  right: 80.76%;
+  left: 11.5%;
+  bottom: 24.96%;
+  top: 16.29%;
+  overflow: visible;
+}
+.vector13 {
+  width: 6.23%;
+  height: 44.84%;
+  position: absolute;
+  right: 73.61%;
+  left: 20.16%;
+  bottom: 23.41%;
+  top: 31.75%;
+  overflow: visible;
+}
+.vector14 {
+  width: 6.38%;
+  height: 49.4%;
+  position: absolute;
+  right: 66.62%;
+  left: 27.01%;
+  bottom: 22.19%;
+  top: 28.41%;
+  overflow: visible;
+}
+.vector15 {
+  width: 6.23%;
+  height: 44.84%;
+  position: absolute;
+  right: 59.83%;
+  left: 33.94%;
+  bottom: 23.41%;
+  top: 31.75%;
+  overflow: visible;
+}
+.group6 {
+  width: 0.52%;
+  height: 29.04%;
+  position: absolute;
+  right: 23.27%;
+  left: 76.21%;
+  bottom: 28.08%;
+  top: 42.88%;
+  overflow: visible;
+}
+.group7 {
+  width: 6.28%;
+  height: 45.16%;
+  position: absolute;
+  right: 14.14%;
+  left: 79.58%;
+  bottom: 21.08%;
+  top: 33.76%;
+  overflow: visible;
+}
+.group8 {
+  height: auto;
+  position: absolute;
+  left: 255.56px;
+  top: 6.54px;
+  overflow: visible;
+}
+.group9 {
+  height: auto;
+  position: absolute;
+  left: 207.86px;
+  top: 17.93px;
+  overflow: visible;
+}
+.group10 {
+  width: 23.27%;
+  height: 86.58%;
+  position: absolute;
+  right: 33.05%;
+  left: 43.68%;
+  bottom: 2.31%;
+  top: 11.11%;
+  overflow: visible;
+}
+.vector16 {
+  width: 5.33%;
+  height: 17.35%;
+  position: absolute;
+  right: 48.43%;
+  left: 46.24%;
+  bottom: 59.51%;
+  top: 23.14%;
+  overflow: visible;
+}
+.vector17 {
+  width: 10.25%;
+  height: 53.61%;
+  position: absolute;
+  right: 36.12%;
+  left: 53.62%;
+  bottom: 18.8%;
+  top: 27.6%;
+  overflow: visible;
+}
+.vector18 {
+  width: 5.99%;
+  height: 31.31%;
+  position: absolute;
+  right: 38.25%;
+  left: 55.76%;
+  bottom: 29.95%;
+  top: 38.74%;
+  overflow: visible;
+}
+.vector19 {
+  width: 3.82%;
+  height: 7.15%;
+  position: absolute;
+  right: 49.48%;
+  left: 46.7%;
+  bottom: 92.85%;
+  top: 0%;
+  overflow: visible;
+}
+.vector20 {
+  width: 23.81%;
+  height: 89.4%;
+  position: absolute;
+  right: 32.78%;
+  left: 43.41%;
+  bottom: 1.13%;
+  top: 9.47%;
+  overflow: visible;
+}
+.mail {
+  width: 1.96%;
+  height: 11.43%;
+  position: absolute;
+  right: 63.12%;
+  left: 34.91%;
+  bottom: 87.62%;
+  top: 0.95%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.group-11 {
+  width: 559px;
+  height: 210px;
+  position: static;
+}
+.contato-photonow-com-br-61-99134-8242-nosso-endere-o-av-john-boyd-dunlop-3900-jardim-ipaussurama-campinas-sp-13060-803 {
+  color: #8c73c9;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 19.38%;
+  left: 37.69%;
+  width: 42.93%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.contato-photonow-com-br-61-99134-8242-nosso-endere-o-av-john-boyd-dunlop-3900-jardim-ipaussurama-campinas-sp-13060-803-span {
+  color: #8c73c9;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.contato-photonow-com-br-61-99134-8242-nosso-endere-o-av-john-boyd-dunlop-3900-jardim-ipaussurama-campinas-sp-13060-803-span2 {
+  color: #8c73c9;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.contato-photonow-com-br-61-99134-8242-nosso-endere-o-av-john-boyd-dunlop-3900-jardim-ipaussurama-campinas-sp-13060-803-span3 {
+  color: #8c73c9;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.call {
+  width: 1.96%;
+  height: 11.43%;
+  position: absolute;
+  right: 63.12%;
+  left: 34.91%;
+  bottom: 58.57%;
+  top: 30%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.distance {
+  width: 1.96%;
+  height: 11.43%;
+  position: absolute;
+  right: 63.12%;
+  left: 34.91%;
+  bottom: 30.95%;
+  top: 57.62%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.group-13 {
+  width: 12.18%;
+  height: 17.62%;
+  position: absolute;
+  right: 0%;
+  left: 87.82%;
+  bottom: 0%;
+  top: 82.38%;
+  overflow: visible;
+}
+.rectangle-27 {
+  background: #563f91;
+  width: 1512px;
+  height: 238px;
+  position: absolute;
+  left: 2px;
+  top: 655px;
+}
+.group-7 {
+  position: absolute;
+  inset: 0;
+}
+.fotos-reveladas-todos-os-meses {
+  color: #563f91;
+  text-align: right;
+  font-family: "-", sans-serif;
+  font-size: 48px;
+  line-height: 86.31%;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 343px;
+  top: 752px;
+}
+.fotos-reveladas-todos-os-meses-span {
+  color: #ffffff;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 48px;
+  line-height: 86.31%;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+.fotos-reveladas-todos-os-meses-span2 {
+  color: #ffffff;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 86.31%;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.dobro-de-fotos-20-fotos-15-x-20-de-brinde {
+  color: #8c73c9;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 40px;
+  line-height: 146.74%;
+  font-weight: 400;
+  position: absolute;
+  left: 304px;
+  top: 947px;
+  width: 904px;
+  height: 60px;
+}
+.dobro-de-fotos-20-fotos-15-x-20-de-brinde-span {
+  color: #8c73c9;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 40px;
+  line-height: 146.74%;
+  font-weight: 700;
+}
+.dobro-de-fotos-20-fotos-15-x-20-de-brinde-span2 {
+  color: #8c73c9;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 146.74%;
+  font-weight: 400;
+}
+.dobro-de-fotos-20-fotos-15-x-20-de-brinde-span3 {
+  color: #8c73c9;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 40px;
+  line-height: 146.74%;
+  font-weight: 700;
+}
+.voucher-para-resgate-nico-do-brinde-enviado-no-primeiro-m-s {
+  color: #e72f63;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 146.74%;
+  font-weight: 400;
+  position: absolute;
+  left: 264px;
+  top: 1265px;
+}
+.planos-a-partir-de {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  left: 268px;
+  top: 1136px;
+  width: 253px;
+  height: 88px;
+}
+.planos-a-partir-de-span {
+  color: #ffffff;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 58px;
+  line-height: 44px;
+  font-weight: 700;
+}
+.planos-a-partir-de-span2 {
+  color: #ffffff;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 40px;
+  line-height: 44px;
+  font-weight: 300;
+}
+.group-21 {
+  position: absolute;
+  inset: 0;
+}
+._24 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 121.10332489013672px;
+  line-height: 91.87px;
+  font-weight: 700;
+  position: absolute;
+  left: 610.09px;
+  top: 1136.39px;
+  width: 152.42px;
+  height: 91.87px;
+}
+._90 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 47.00401306152344px;
+  line-height: 52.88px;
+  font-weight: 400;
+  position: absolute;
+  left: 762.15px;
+  top: 1132px;
+  width: 70.51px;
+  height: 54.84px;
+}
+.m-s {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 25.638553619384766px;
+  line-height: 28.84px;
+  font-weight: 400;
+  position: absolute;
+  left: 763.22px;
+  top: 1195.15px;
+  width: 74.78px;
+  height: 29.91px;
+}
+.r {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 25.638553619384766px;
+  line-height: 28.84px;
+  font-weight: 400;
+  position: absolute;
+  left: 572px;
+  top: 1136.39px;
+  width: 38.46px;
+  height: 29.91px;
+}
+.camada-13 {
+  width: 215.25px;
+  height: 174.73px;
+  position: absolute;
+  left: 1133.31px;
+  top: 543.67px;
+  transform-origin: 0 0;
+  transform: rotate(-5.756deg) scale(1, 1);
+  overflow: hidden;
+}
+.group11 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.group12 {
+  width: 91.53%;
+  height: 80.47%;
+  position: absolute;
+  right: 4.23%;
+  left: 4.23%;
+  bottom: 5.23%;
+  top: 14.3%;
+  overflow: visible;
+}
+.vector21 {
+  width: 20.96%;
+  height: 16.13%;
+  position: absolute;
+  right: 64.75%;
+  left: 14.29%;
+  bottom: 58.39%;
+  top: 25.49%;
+  overflow: visible;
+}
+.vector22 {
+  width: 40.34%;
+  height: 49.82%;
+  position: absolute;
+  right: 16.31%;
+  left: 43.35%;
+  bottom: 20.56%;
+  top: 29.63%;
+  overflow: visible;
+}
+.vector23 {
+  width: 23.56%;
+  height: 29.1%;
+  position: absolute;
+  right: 24.7%;
+  left: 51.74%;
+  bottom: 30.92%;
+  top: 39.99%;
+  overflow: visible;
+}
+.vector24 {
+  width: 15.02%;
+  height: 6.64%;
+  position: absolute;
+  right: 68.85%;
+  left: 16.12%;
+  bottom: 89.38%;
+  top: 3.98%;
+  overflow: visible;
+}
+.camada-14 {
+  width: 121.42px;
+  height: 121.42px;
+  position: absolute;
+  left: 1061px;
+  top: 527.89px;
+  transform: translate(0px, -27.89px);
+  overflow: visible;
+}
+.camada-15 {
+  width: 103.11px;
+  height: 103.11px;
+  position: absolute;
+  left: 1307.14px;
+  top: 622.14px;
+  transform: translate(-18.87px, 0px);
+  overflow: visible;
+}
+.image {
+  border-radius: 20px;
+  width: 428.75px;
+  height: 565.84px;
+  position: absolute;
+  left: 949.6px;
+  top: 1023.76px;
+  transform-origin: 0 0;
+  transform: rotate(5.525deg) scale(1, 1);
+  object-fit: cover;
+}
+.line-19 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #e72f63;
+  border-width: 1px 0 0 0;
+  width: 134px;
+  height: 0px;
+  position: absolute;
+  left: 539px;
+  top: 1113px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.group-22 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-33 {
+  border-radius: 53px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 341px;
+  height: 60px;
+  position: absolute;
+  left: 383px;
+  top: 1332px;
+}
+.ver-planos {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 416.87px;
+  top: 1347px;
+  width: 272.27px;
+}
+.group-17 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-16 {
+  background: #efefef;
+  border-radius: 30px;
+  width: 295px;
+  height: 196px;
+  position: absolute;
+  left: 136px;
+  top: 1833px;
+}
+.group-30 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 383px;
+  top: 1868px;
+  overflow: visible;
+}
+.experi-ncia-r-pida-e-descomplicada-f-cil-de-usar-e-de-adicionar-fotos {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 100.02%;
+  font-weight: 400;
+  position: absolute;
+  left: 160px;
+  top: 1950px;
+  width: 247px;
+  height: 44px;
+}
+.frame-14 {
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 203px;
+  position: absolute;
+  left: 160px;
+  top: 1868px;
+}
+.fa-a-tudo-no-app {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 100.02%;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+  width: 141px;
+  height: 40px;
+}
+.line-17 {
+  flex-shrink: 0;
+  width: 74.14px;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.group-24 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-162 {
+  background: #efefef;
+  border-radius: 30px;
+  width: 295px;
+  height: 196px;
+  position: absolute;
+  left: 451px;
+  top: 1833px;
+}
+.group-29 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 698px;
+  top: 1868px;
+  overflow: visible;
+}
+.personalize-do-seu-jeito {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 100.02%;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 475px;
+  top: 1868px;
+  width: 197px;
+  height: 39px;
+}
+.do-formato-da-foto-at-a-legenda-aqui-voc-deixa-tudo-do-seu-jeito {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 100.02%;
+  font-weight: 400;
+  position: absolute;
+  left: 475px;
+  top: 1950px;
+  width: 247px;
+  height: 44px;
+}
+.line-172 {
+  width: 74.14px;
+  height: 0px;
+  position: absolute;
+  left: 475px;
+  top: 1918px;
+  overflow: visible;
+}
+.group-25 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-163 {
+  background: #efefef;
+  border-radius: 30px;
+  width: 295px;
+  height: 196px;
+  position: absolute;
+  left: 766px;
+  top: 1833px;
+}
+.group-27 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1013px;
+  top: 1868px;
+  overflow: visible;
+}
+.receba-em-casa {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 100.02%;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 790px;
+  top: 1868px;
+  width: 110px;
+  height: 39px;
+}
+.entregamos-para-todo-o-brasil-revele-e-receba-na-comodidade-de-casa {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 100.02%;
+  font-weight: 400;
+  position: absolute;
+  left: 790px;
+  top: 1950px;
+  width: 247px;
+  height: 44px;
+}
+.line-173 {
+  width: 74.14px;
+  height: 0px;
+  position: absolute;
+  left: 790px;
+  top: 1918px;
+  overflow: visible;
+}
+.group-26 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-164 {
+  background: #efefef;
+  border-radius: 30px;
+  width: 295px;
+  height: 196px;
+  position: absolute;
+  left: 1081px;
+  top: 1833px;
+}
+.group-28 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1328px;
+  top: 1868px;
+  overflow: visible;
+}
+.qualidade-photo-now {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 100.02%;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 1105px;
+  top: 1868px;
+  width: 164px;
+  height: 39px;
+}
+.fotos-reveladas-de-verdade-com-nitidez-cores-mais-vivas-e-muito-mais-durabilidade {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 100.02%;
+  font-weight: 400;
+  position: absolute;
+  left: 1105px;
+  top: 1950px;
+  width: 247px;
+  height: 44px;
+}
+.line-174 {
+  width: 74.14px;
+  height: 0px;
+  position: absolute;
+  left: 1105px;
+  top: 1918px;
+  overflow: visible;
+}
+.rectangle-30 {
+  border-radius: 21px;
+  border-style: solid;
+  border-color: #8c73c9;
+  border-width: 1px;
+  width: 510px;
+  height: 171px;
+  position: absolute;
+  left: 866px;
+  top: 2271px;
+}
+.rectangle-31 {
+  border-radius: 21px;
+  border-style: solid;
+  border-color: #8c73c9;
+  border-width: 1px;
+  width: 510px;
+  height: 170px;
+  position: absolute;
+  left: 866px;
+  top: 2453px;
+}
+.rectangle-322 {
+  border-radius: 21px;
+  border-style: solid;
+  border-color: #8c73c9;
+  border-width: 1px;
+  width: 510px;
+  height: 170px;
+  position: absolute;
+  left: 866px;
+  top: 2635px;
+}
+.rectangle-332 {
+  border-radius: 21px;
+  border-style: solid;
+  border-color: #8c73c9;
+  border-width: 1px;
+  width: 510px;
+  height: 171px;
+  position: absolute;
+  left: 866px;
+  top: 2816px;
+}
+.o-melhor-plano {
+  color: #8c73c9;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 134%;
+  font-weight: 700;
+  position: absolute;
+  left: 899px;
+  top: 2286px;
+  width: 225px;
+  height: 33px;
+}
+.benef-cios-exclusivos {
+  color: #8c73c9;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 134%;
+  font-weight: 700;
+  position: absolute;
+  left: 899px;
+  top: 2480px;
+  width: 355px;
+  height: 34px;
+}
+.indique-ganhe {
+  color: #8c73c9;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 134%;
+  font-weight: 700;
+  position: absolute;
+  left: 899px;
+  top: 2661px;
+  width: 225px;
+  height: 29px;
+}
+.resgate-esse-h-bito {
+  color: #8c73c9;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 134%;
+  font-weight: 700;
+  position: absolute;
+  left: 899px;
+  top: 2847px;
+  width: 357px;
+  height: 34px;
+}
+.v-rios-formatos-e-quantidades-de-fotos-para-voc-receber-todos-os-meses {
+  color: #8c73c9;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 116%;
+  font-weight: 400;
+  position: absolute;
+  left: 899px;
+  top: 2360px;
+  width: 410px;
+  height: 51px;
+}
+.assinantes-anuais-t-m-descontos-e-frete-gr-tis-na-compra-de-lbuns-e-pacotes {
+  color: #8c73c9;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 116%;
+  font-weight: 400;
+  position: absolute;
+  left: 899px;
+  top: 2539px;
+  width: 410px;
+  height: 58px;
+}
+.ganhe-lbuns-de-fotos-indicando-a-photo-now-para-todos-os-seus-amigos {
+  color: #8c73c9;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 116%;
+  font-weight: 400;
+  position: absolute;
+  left: 899px;
+  top: 2726px;
+  width: 410px;
+  height: 44px;
+}
+.todo-m-s-uma-viagem-no-tempo-com-fotos-reveladas-dos-seus-momentos-especiais {
+  color: #8c73c9;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 116%;
+  font-weight: 400;
+  position: absolute;
+  left: 899px;
+  top: 2905px;
+  width: 444px;
+  height: 51px;
+}
+.line-21 {
+  width: 99px;
+  height: 0px;
+  position: absolute;
+  left: 899px;
+  top: 2339px;
+  transform: translate(-1.5px, -1.5px);
+  overflow: visible;
+}
+.line-22 {
+  width: 99px;
+  height: 0px;
+  position: absolute;
+  left: 899px;
+  top: 2518px;
+  transform: translate(-1.5px, -1.5px);
+  overflow: visible;
+}
+.line-23 {
+  width: 99px;
+  height: 0px;
+  position: absolute;
+  left: 899px;
+  top: 2702px;
+  transform: translate(-1.5px, -1.5px);
+  overflow: visible;
+}
+.line-24 {
+  width: 99px;
+  height: 0px;
+  position: absolute;
+  left: 899px;
+  top: 2885px;
+  transform: translate(-1.5px, -1.5px);
+  overflow: visible;
+}
+.group-282 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-34 {
+  border-radius: 53px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 251.88px;
+  height: 60px;
+  position: absolute;
+  left: 389.12px;
+  top: 2887px;
+}
+.assine-um-plano {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 389px;
+  top: 2902px;
+  width: 251.21px;
+}
+.rectangle-165 {
+  background: #efefef;
+  border-radius: 38.58px;
+  width: 399.39px;
+  height: 610.49px;
+  position: absolute;
+  left: 136px;
+  top: 3310px;
+}
+.rectangle-342 {
+  background: linear-gradient(
+    -1.22deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.6) 100%
+  );
+  border-radius: 28.53px;
+  width: 348.99px;
+  height: 289.08px;
+  position: absolute;
+  left: 160.72px;
+  top: 3337.58px;
+  object-fit: cover;
+}
+.rectangle-35 {
+  background: #e72f63;
+  border-radius: 13.31px;
+  width: 312.85px;
+  height: 35.18px;
+  position: absolute;
+  left: 178.79px;
+  top: 3351.84px;
+}
+.fotos-polaroid {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18.63210678100586px;
+  font-weight: 400;
+  position: absolute;
+  left: 234.9px;
+  top: 3355.64px;
+  width: 201.6px;
+  height: 21.87px;
+}
+.group-312 {
+  width: 36.13px;
+  height: 36.13px;
+  position: absolute;
+  left: 473.58px;
+  top: 3654.23px;
+  overflow: visible;
+}
+.planos-e-pacotes-de-fotos-em-formato-15-x-20-revela-o-em-papel-fotogr-fico-photo-now {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 15.214723587036133px;
+  line-height: 100.02%;
+  font-weight: 400;
+  position: absolute;
+  left: 166.43px;
+  top: 3737.91px;
+  width: 343.28px;
+  height: 57.06px;
+}
+.a-partir-de-r-39-90 {
+  color: #848484;
+  text-align: left;
+  position: absolute;
+  left: 166.43px;
+  top: 3794.97px;
+}
+.a-partir-de-r-39-90-span {
+  color: #848484;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17.16295051574707px;
+  line-height: 100.02%;
+  font-weight: 400;
+}
+.a-partir-de-r-39-90-span2 {
+  color: #848484;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 21.680980682373047px;
+  line-height: 100.02%;
+  font-weight: 700;
+}
+.frame-142 {
+  display: flex;
+  flex-direction: column;
+  gap: 14.15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 205.4px;
+  height: 65.61px;
+  position: absolute;
+  left: 166.43px;
+  top: 3654.23px;
+}
+.para-grandes-mem-rias {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 25.72319793701172px;
+  line-height: 100.02%;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+  width: 261.5px;
+  height: 51.35px;
+}
+.line-175 {
+  flex-shrink: 0;
+  width: 95.35px;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.group-14 {
+  width: 339.86px;
+  height: 55.9px;
+  position: static;
+}
+.rectangle-36 {
+  background: #e72f63;
+  border-radius: 49.38px;
+  width: 339.86px;
+  height: 55.9px;
+  position: absolute;
+  left: 166.87px;
+  top: 3834.91px;
+}
+.comprar {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18.63210678100586px;
+  font-weight: 400;
+  position: absolute;
+  left: 200.63px;
+  top: 3848.88px;
+  width: 271.36px;
+  height: 28.3px;
+}
+.group-33 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-166 {
+  background: #efefef;
+  border-radius: 38.58px;
+  width: 399.39px;
+  height: 610.49px;
+  position: absolute;
+  left: 136px;
+  top: 4172px;
+}
+.rectangle-343 {
+  background: linear-gradient(
+    -1.22deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.6) 100%
+  );
+  border-radius: 28.53px;
+  width: 348.99px;
+  height: 289.08px;
+  position: absolute;
+  left: 160.72px;
+  top: 4199.58px;
+  object-fit: cover;
+}
+.group-313 {
+  width: 36.13px;
+  height: 36.13px;
+  position: absolute;
+  left: 473.58px;
+  top: 4516.23px;
+  overflow: visible;
+}
+.planos-e-pacotes-de-fotos-em-formato-15-x-20-revela-o-em-papel-fotogr-fico-photo-now2 {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 15.214723587036133px;
+  line-height: 100.02%;
+  font-weight: 400;
+  position: absolute;
+  left: 166.43px;
+  top: 4599.91px;
+  width: 343.28px;
+  height: 57.06px;
+}
+.a-partir-de-r-39-902 {
+  color: #848484;
+  text-align: left;
+  position: absolute;
+  left: 166.43px;
+  top: 4656.97px;
+}
+.a-partir-de-r-39-902-span {
+  color: #848484;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17.16295051574707px;
+  line-height: 100.02%;
+  font-weight: 400;
+}
+.a-partir-de-r-39-902-span2 {
+  color: #848484;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 21.680980682373047px;
+  line-height: 100.02%;
+  font-weight: 700;
+}
+.frame-143 {
+  display: flex;
+  flex-direction: column;
+  gap: 14.15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 205.4px;
+  height: 65.61px;
+  position: absolute;
+  left: 166.43px;
+  top: 4516.23px;
+}
+.lbum-slim {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 25.72319793701172px;
+  line-height: 100.02%;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+  width: 261.5px;
+  height: 51.35px;
+}
+.line-176 {
+  flex-shrink: 0;
+  width: 95.35px;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.rectangle-37 {
+  background: #e72f63;
+  border-radius: 49.38px;
+  width: 339.86px;
+  height: 55.9px;
+  position: absolute;
+  left: 166.87px;
+  top: 4696.91px;
+}
+.comprar2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18.63210678100586px;
+  font-weight: 400;
+  position: absolute;
+  left: 200.63px;
+  top: 4710.88px;
+  width: 271.36px;
+  height: 28.3px;
+}
+.group-292 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-167 {
+  background: #efefef;
+  border-radius: 38.58px;
+  width: 399.39px;
+  height: 610.49px;
+  position: absolute;
+  left: 556.31px;
+  top: 3310px;
+}
+.rectangle-344 {
+  background: linear-gradient(
+    -1.22deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.6) 100%
+  );
+  border-radius: 28.53px;
+  width: 348.99px;
+  height: 289.08px;
+  position: absolute;
+  left: 581.03px;
+  top: 3337.58px;
+  object-fit: cover;
+}
+.rectangle-352 {
+  background: #e72f63;
+  border-radius: 13.31px;
+  width: 312.85px;
+  height: 35.18px;
+  position: absolute;
+  left: 599.1px;
+  top: 3351.84px;
+}
+.fotos-10-x-15-cm {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18.63210678100586px;
+  font-weight: 400;
+  position: absolute;
+  left: 655.2px;
+  top: 3355.64px;
+  width: 201.6px;
+  height: 21.87px;
+}
+.group-314 {
+  width: 36.13px;
+  height: 36.13px;
+  position: absolute;
+  left: 893.88px;
+  top: 3654.23px;
+  overflow: visible;
+}
+.planos-e-pacotes-de-fotos-em-formato-15-x-20-revela-o-em-papel-fotogr-fico-photo-now3 {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 15.214723587036133px;
+  line-height: 100.02%;
+  font-weight: 400;
+  position: absolute;
+  left: 586.74px;
+  top: 3737.91px;
+  width: 343.28px;
+  height: 57.06px;
+}
+.a-partir-de-r-39-903 {
+  color: #848484;
+  text-align: left;
+  position: absolute;
+  left: 586.74px;
+  top: 3794.97px;
+}
+.a-partir-de-r-39-903-span {
+  color: #848484;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17.16295051574707px;
+  line-height: 100.02%;
+  font-weight: 400;
+}
+.a-partir-de-r-39-903-span2 {
+  color: #848484;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 21.680980682373047px;
+  line-height: 100.02%;
+  font-weight: 700;
+}
+.frame-144 {
+  display: flex;
+  flex-direction: column;
+  gap: 14.15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 205.4px;
+  height: 65.61px;
+  position: absolute;
+  left: 586.74px;
+  top: 3654.23px;
+}
+.line-177 {
+  flex-shrink: 0;
+  width: 95.35px;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.rectangle-38 {
+  background: #e72f63;
+  border-radius: 49.38px;
+  width: 339.86px;
+  height: 55.9px;
+  position: absolute;
+  left: 587.17px;
+  top: 3834.91px;
+}
+.comprar3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18.63210678100586px;
+  font-weight: 400;
+  position: absolute;
+  left: 620.93px;
+  top: 3848.88px;
+  width: 271.36px;
+  height: 28.3px;
+}
+.group-34 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-168 {
+  background: #efefef;
+  border-radius: 38.58px;
+  width: 399.39px;
+  height: 610.49px;
+  position: absolute;
+  left: 556.31px;
+  top: 4172px;
+}
+.rectangle-345 {
+  background: linear-gradient(
+    -1.22deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.6) 100%
+  );
+  border-radius: 28.53px;
+  width: 348.99px;
+  height: 289.08px;
+  position: absolute;
+  left: 581.03px;
+  top: 4199.58px;
+  object-fit: cover;
+}
+.group-315 {
+  width: 36.13px;
+  height: 36.13px;
+  position: absolute;
+  left: 893.88px;
+  top: 4516.23px;
+  overflow: visible;
+}
+.planos-e-pacotes-de-fotos-em-formato-15-x-20-revela-o-em-papel-fotogr-fico-photo-now4 {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 15.214723587036133px;
+  line-height: 100.02%;
+  font-weight: 400;
+  position: absolute;
+  left: 586.74px;
+  top: 4599.91px;
+  width: 343.28px;
+  height: 57.06px;
+}
+.a-partir-de-r-39-904 {
+  color: #848484;
+  text-align: left;
+  position: absolute;
+  left: 586.74px;
+  top: 4656.97px;
+}
+.a-partir-de-r-39-904-span {
+  color: #848484;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17.16295051574707px;
+  line-height: 100.02%;
+  font-weight: 400;
+}
+.a-partir-de-r-39-904-span2 {
+  color: #848484;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 21.680980682373047px;
+  line-height: 100.02%;
+  font-weight: 700;
+}
+.frame-145 {
+  display: flex;
+  flex-direction: column;
+  gap: 14.15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 205.4px;
+  height: 65.61px;
+  position: absolute;
+  left: 586.74px;
+  top: 4516.23px;
+}
+.lbum-mandala {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 25.72319793701172px;
+  line-height: 100.02%;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+  width: 261.5px;
+  height: 51.35px;
+}
+.line-178 {
+  flex-shrink: 0;
+  width: 95.35px;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.rectangle-39 {
+  background: #e72f63;
+  border-radius: 49.38px;
+  width: 339.86px;
+  height: 55.9px;
+  position: absolute;
+  left: 587.17px;
+  top: 4696.91px;
+}
+.comprar4 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18.63210678100586px;
+  font-weight: 400;
+  position: absolute;
+  left: 620.93px;
+  top: 4710.88px;
+  width: 271.36px;
+  height: 28.3px;
+}
+.group-302 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-169 {
+  background: #efefef;
+  border-radius: 38.58px;
+  width: 399.39px;
+  height: 610.49px;
+  position: absolute;
+  left: 976.61px;
+  top: 3310px;
+}
+.rectangle-346 {
+  background: linear-gradient(
+    -1.22deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.6) 100%
+  );
+  border-radius: 28.53px;
+  width: 348.99px;
+  height: 289.08px;
+  position: absolute;
+  left: 1001.34px;
+  top: 3337.58px;
+  object-fit: cover;
+}
+.rectangle-353 {
+  background: #e72f63;
+  border-radius: 13.31px;
+  width: 312.85px;
+  height: 35.18px;
+  position: absolute;
+  left: 1019.4px;
+  top: 3351.84px;
+}
+.fotos-15-x-20-cm {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18.63210678100586px;
+  font-weight: 400;
+  position: absolute;
+  left: 1075.51px;
+  top: 3355.64px;
+  width: 201.6px;
+  height: 21.87px;
+}
+.group-316 {
+  width: 36.13px;
+  height: 36.13px;
+  position: absolute;
+  left: 1314.19px;
+  top: 3654.23px;
+  overflow: visible;
+}
+.planos-e-pacotes-de-fotos-em-formato-15-x-20-revela-o-em-papel-fotogr-fico-photo-now5 {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 15.214723587036133px;
+  line-height: 100.02%;
+  font-weight: 400;
+  position: absolute;
+  left: 1007.04px;
+  top: 3737.91px;
+  width: 343.28px;
+  height: 57.06px;
+}
+.a-partir-de-r-39-905 {
+  color: #848484;
+  text-align: left;
+  position: absolute;
+  left: 1007.04px;
+  top: 3794.97px;
+}
+.a-partir-de-r-39-905-span {
+  color: #848484;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17.16295051574707px;
+  line-height: 100.02%;
+  font-weight: 400;
+}
+.a-partir-de-r-39-905-span2 {
+  color: #848484;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 21.680980682373047px;
+  line-height: 100.02%;
+  font-weight: 700;
+}
+.frame-146 {
+  display: flex;
+  flex-direction: column;
+  gap: 14.15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 205.4px;
+  height: 65.61px;
+  position: absolute;
+  left: 1007.04px;
+  top: 3654.23px;
+}
+.line-179 {
+  flex-shrink: 0;
+  width: 95.35px;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.rectangle-310 {
+  background: #e72f63;
+  border-radius: 49.38px;
+  width: 339.86px;
+  height: 55.9px;
+  position: absolute;
+  left: 1007.48px;
+  top: 3834.91px;
+}
+.comprar5 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18.63210678100586px;
+  font-weight: 400;
+  position: absolute;
+  left: 1041.24px;
+  top: 3848.88px;
+  width: 271.36px;
+  height: 28.3px;
+}
+.group-35 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1610 {
+  background: #efefef;
+  border-radius: 38.58px;
+  width: 399.39px;
+  height: 610.49px;
+  position: absolute;
+  left: 976.61px;
+  top: 4172px;
+}
+.rectangle-347 {
+  background: linear-gradient(
+    -1.22deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.6) 100%
+  );
+  border-radius: 28.53px;
+  width: 348.99px;
+  height: 289.08px;
+  position: absolute;
+  left: 1001.34px;
+  top: 4199.58px;
+  object-fit: cover;
+}
+.group-317 {
+  width: 36.13px;
+  height: 36.13px;
+  position: absolute;
+  left: 1314.19px;
+  top: 4516.23px;
+  overflow: visible;
+}
+.planos-e-pacotes-de-fotos-em-formato-15-x-20-revela-o-em-papel-fotogr-fico-photo-now6 {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 15.214723587036133px;
+  line-height: 100.02%;
+  font-weight: 400;
+  position: absolute;
+  left: 1007.04px;
+  top: 4599.91px;
+  width: 343.28px;
+  height: 57.06px;
+}
+.a-partir-de-r-39-906 {
+  color: #848484;
+  text-align: left;
+  position: absolute;
+  left: 1007.04px;
+  top: 4656.97px;
+}
+.a-partir-de-r-39-906-span {
+  color: #848484;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 17.16295051574707px;
+  line-height: 100.02%;
+  font-weight: 400;
+}
+.a-partir-de-r-39-906-span2 {
+  color: #848484;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 21.680980682373047px;
+  line-height: 100.02%;
+  font-weight: 700;
+}
+.frame-147 {
+  display: flex;
+  flex-direction: column;
+  gap: 14.15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 205.4px;
+  height: 65.61px;
+  position: absolute;
+  left: 1007.04px;
+  top: 4516.23px;
+}
+.kit-mem-rias {
+  color: #848484;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 25.72319793701172px;
+  line-height: 100.02%;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+  width: 261.5px;
+  height: 51.35px;
+}
+.line-1710 {
+  flex-shrink: 0;
+  width: 95.35px;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.rectangle-311 {
+  background: #e72f63;
+  border-radius: 49.38px;
+  width: 339.86px;
+  height: 55.9px;
+  position: absolute;
+  left: 1007.48px;
+  top: 4696.91px;
+}
+.comprar6 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18.63210678100586px;
+  font-weight: 400;
+  position: absolute;
+  left: 1041.24px;
+  top: 4710.88px;
+  width: 271.36px;
+  height: 28.3px;
+}
+.rectangle-348 {
+  background: #efefef;
+  width: 1512px;
+  height: 451px;
+  position: absolute;
+  left: 0px;
+  top: 4932px;
+}
+.o-que-j-fizemos {
+  color: #563f91;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 48px;
+  line-height: 118.69%;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 529px;
+  top: 4995px;
+  width: 454px;
+  height: 47px;
+}
+.o-que-j-fizemos-span {
+  color: #563f91;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 48px;
+  line-height: 118.69%;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.o-que-j-fizemos-span2 {
+  color: #563f91;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 118.69%;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.group-39 {
+  position: absolute;
+  inset: 0;
+}
+.group-38 {
+  width: 140px;
+  height: 160px;
+  position: static;
+}
+._17 {
+  color: #563f91;
+  text-align: center;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 84.5282974243164px;
+  line-height: 118.69%;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 224px;
+  top: 5106px;
+  width: 140px;
+  height: 87px;
+}
+.milh-es-revela-es {
+  color: #563f91;
+  text-align: center;
+  position: absolute;
+  left: 228px;
+  top: 5215px;
+}
+.milh-es-revela-es-span {
+  color: #563f91;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.milh-es-revela-es-span2 {
+  color: #563f91;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.group-37 {
+  width: 210px;
+  height: 168px;
+  position: static;
+}
+._760 {
+  color: #563f91;
+  text-align: center;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 84.5282974243164px;
+  line-height: 118.69%;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 584px;
+  top: 5106px;
+  width: 210px;
+  height: 67px;
+}
+.mil-seguidores {
+  color: #563f91;
+  text-align: center;
+  position: absolute;
+  left: 584px;
+  top: 5215px;
+  width: 210px;
+}
+.mil-seguidores-span {
+  color: #563f91;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 34px;
+  line-height: 102.94%;
+  font-weight: 700;
+}
+.mil-seguidores-span2 {
+  color: #563f91;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 102.94%;
+  font-weight: 700;
+}
+.mil-seguidores-span3 {
+  color: #563f91;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 102.94%;
+  font-weight: 400;
+}
+.group-36 {
+  width: 274px;
+  height: 177px;
+  position: static;
+}
+._1-4 {
+  color: #563f91;
+  text-align: center;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 84.5282974243164px;
+  line-height: 118.69%;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: 1046px;
+  top: 5106px;
+  width: 210px;
+  height: 67px;
+}
+.milh-es-pacotes-vendidos {
+  color: #563f91;
+  text-align: center;
+  position: absolute;
+  left: 1014px;
+  top: 5215px;
+  width: 274px;
+}
+.milh-es-pacotes-vendidos-span {
+  color: #563f91;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 34px;
+  line-height: 121.16%;
+  font-weight: 700;
+}
+.milh-es-pacotes-vendidos-span2 {
+  color: #563f91;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 121.16%;
+  font-weight: 700;
+}
+.milh-es-pacotes-vendidos-span3 {
+  color: #563f91;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 121.16%;
+  font-weight: 400;
+}
+.line-25 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #563f91;
+  border-width: 2px 0 0 0;
+  width: 204px;
+  height: 0px;
+  position: absolute;
+  left: 474px;
+  top: 5091px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.line-26 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #563f91;
+  border-width: 2px 0 0 0;
+  width: 204px;
+  height: 0px;
+  position: absolute;
+  left: 904px;
+  top: 5091px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.rectangle-354 {
+  background: #efefef;
+  width: 1512px;
+  height: 777px;
+  position: absolute;
+  left: -10px;
+  top: 5357px;
+}
+.img-0002-1 {
+  width: 536px;
+  height: 881px;
+  position: absolute;
+  left: 1001px;
+  top: 5383px;
+  object-fit: cover;
+}
+.rectangle-19 {
+  background: linear-gradient(
+    89.17deg,
+    rgba(239, 239, 239, 1) 0%,
+    rgba(235, 235, 235, 0) 100%
+  );
+  width: 1597px;
+  height: 881px;
+  position: absolute;
+  left: -33px;
+  top: 5393px;
+}
+.group-9 {
+  position: absolute;
+  inset: 0;
+}
+.que-tal-fazer-parte-dessa-hist-ria {
+  text-align: left;
+  text-transform: uppercase;
+  position: absolute;
+  left: 160px;
+  top: 5561px;
+}
+.que-tal-fazer-parte-dessa-hist-ria-span {
+  color: #11171f;
+  font-family: "Poppins-Light", sans-serif;
+  font-size: 48px;
+  line-height: 86.31%;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+.que-tal-fazer-parte-dessa-hist-ria-span2 {
+  color: #563f91;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 77px;
+  line-height: 86.31%;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.line-72 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 159px;
+  height: 0px;
+  position: absolute;
+  left: 125px;
+  top: 5536px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.group-10 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-312 {
+  background: #e72f63;
+  border-radius: 53px;
+  width: 420px;
+  height: 60px;
+  position: absolute;
+  left: 127px;
+  top: 6118px;
+}
+.como-funcionam-nossos-totens {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 162px;
+  top: 6133px;
+  width: 349px;
+}
+.a-photo-now-nasceu-em-bras-lia-em-2022-com-a-miss-o-de-tornar-a-fotografia-instant-nea-acess-vel-interativa-atrav-s-de-totens-fotogr-ficos-modernos-e-intuitivos-a-marca-permite-que-os-usu-rios-editem-e-imprimam-suas-fotos-em-poucos-segundos-em-pouco-tempo-a-photo-now-se-tornou-um-grande-sucesso-3-unidades-pr-prias-al-m-de-mais-expandindo-se-para-mais-de-80-franquias-em-todo-o-brasil-sua-presen-a-em-shoppings-aeroportos-e-eventos-refor-a-seu-compromisso-em-registrar-momentos-especiais-de-forma-pr-tica-e-inovadora-com-um-modelo-de-neg-cio-acess-vel-e-tecnologia-de-ponta-a-photo-now-segue-crescendo-oferecendo-oportunidades-para-empreendedores-e-proporcionando-experi-ncias-nicas-para-seus-clientes {
+  color: #8c73c9;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  line-height: 146.74%;
+  font-weight: 400;
+  position: absolute;
+  left: 117px;
+  top: 5725px;
+  width: 823px;
+  height: 349px;
+}
+.a-photo-now-nasceu-em-bras-lia-em-2022-com-a-miss-o-de-tornar-a-fotografia-instant-nea-acess-vel-interativa-atrav-s-de-totens-fotogr-ficos-modernos-e-intuitivos-a-marca-permite-que-os-usu-rios-editem-e-imprimam-suas-fotos-em-poucos-segundos-em-pouco-tempo-a-photo-now-se-tornou-um-grande-sucesso-3-unidades-pr-prias-al-m-de-mais-expandindo-se-para-mais-de-80-franquias-em-todo-o-brasil-sua-presen-a-em-shoppings-aeroportos-e-eventos-refor-a-seu-compromisso-em-registrar-momentos-especiais-de-forma-pr-tica-e-inovadora-com-um-modelo-de-neg-cio-acess-vel-e-tecnologia-de-ponta-a-photo-now-segue-crescendo-oferecendo-oportunidades-para-empreendedores-e-proporcionando-experi-ncias-nicas-para-seus-clientes-span {
+  color: #8c73c9;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 146.74%;
+  font-weight: 700;
+}
+.a-photo-now-nasceu-em-bras-lia-em-2022-com-a-miss-o-de-tornar-a-fotografia-instant-nea-acess-vel-interativa-atrav-s-de-totens-fotogr-ficos-modernos-e-intuitivos-a-marca-permite-que-os-usu-rios-editem-e-imprimam-suas-fotos-em-poucos-segundos-em-pouco-tempo-a-photo-now-se-tornou-um-grande-sucesso-3-unidades-pr-prias-al-m-de-mais-expandindo-se-para-mais-de-80-franquias-em-todo-o-brasil-sua-presen-a-em-shoppings-aeroportos-e-eventos-refor-a-seu-compromisso-em-registrar-momentos-especiais-de-forma-pr-tica-e-inovadora-com-um-modelo-de-neg-cio-acess-vel-e-tecnologia-de-ponta-a-photo-now-segue-crescendo-oferecendo-oportunidades-para-empreendedores-e-proporcionando-experi-ncias-nicas-para-seus-clientes-span2 {
+  color: #8c73c9;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 146.74%;
+  font-weight: 400;
+}
+.a-photo-now-nasceu-em-bras-lia-em-2022-com-a-miss-o-de-tornar-a-fotografia-instant-nea-acess-vel-interativa-atrav-s-de-totens-fotogr-ficos-modernos-e-intuitivos-a-marca-permite-que-os-usu-rios-editem-e-imprimam-suas-fotos-em-poucos-segundos-em-pouco-tempo-a-photo-now-se-tornou-um-grande-sucesso-3-unidades-pr-prias-al-m-de-mais-expandindo-se-para-mais-de-80-franquias-em-todo-o-brasil-sua-presen-a-em-shoppings-aeroportos-e-eventos-refor-a-seu-compromisso-em-registrar-momentos-especiais-de-forma-pr-tica-e-inovadora-com-um-modelo-de-neg-cio-acess-vel-e-tecnologia-de-ponta-a-photo-now-segue-crescendo-oferecendo-oportunidades-para-empreendedores-e-proporcionando-experi-ncias-nicas-para-seus-clientes-span3 {
+  color: #8c73c9;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 146.74%;
+  font-weight: 700;
+}
+.a-photo-now-nasceu-em-bras-lia-em-2022-com-a-miss-o-de-tornar-a-fotografia-instant-nea-acess-vel-interativa-atrav-s-de-totens-fotogr-ficos-modernos-e-intuitivos-a-marca-permite-que-os-usu-rios-editem-e-imprimam-suas-fotos-em-poucos-segundos-em-pouco-tempo-a-photo-now-se-tornou-um-grande-sucesso-3-unidades-pr-prias-al-m-de-mais-expandindo-se-para-mais-de-80-franquias-em-todo-o-brasil-sua-presen-a-em-shoppings-aeroportos-e-eventos-refor-a-seu-compromisso-em-registrar-momentos-especiais-de-forma-pr-tica-e-inovadora-com-um-modelo-de-neg-cio-acess-vel-e-tecnologia-de-ponta-a-photo-now-segue-crescendo-oferecendo-oportunidades-para-empreendedores-e-proporcionando-experi-ncias-nicas-para-seus-clientes-span4 {
+  color: #8c73c9;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 146.74%;
+  font-weight: 400;
+}
+.a-photo-now-nasceu-em-bras-lia-em-2022-com-a-miss-o-de-tornar-a-fotografia-instant-nea-acess-vel-interativa-atrav-s-de-totens-fotogr-ficos-modernos-e-intuitivos-a-marca-permite-que-os-usu-rios-editem-e-imprimam-suas-fotos-em-poucos-segundos-em-pouco-tempo-a-photo-now-se-tornou-um-grande-sucesso-3-unidades-pr-prias-al-m-de-mais-expandindo-se-para-mais-de-80-franquias-em-todo-o-brasil-sua-presen-a-em-shoppings-aeroportos-e-eventos-refor-a-seu-compromisso-em-registrar-momentos-especiais-de-forma-pr-tica-e-inovadora-com-um-modelo-de-neg-cio-acess-vel-e-tecnologia-de-ponta-a-photo-now-segue-crescendo-oferecendo-oportunidades-para-empreendedores-e-proporcionando-experi-ncias-nicas-para-seus-clientes-span5 {
+  color: #8c73c9;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 146.74%;
+  font-weight: 700;
+}
+.a-photo-now-nasceu-em-bras-lia-em-2022-com-a-miss-o-de-tornar-a-fotografia-instant-nea-acess-vel-interativa-atrav-s-de-totens-fotogr-ficos-modernos-e-intuitivos-a-marca-permite-que-os-usu-rios-editem-e-imprimam-suas-fotos-em-poucos-segundos-em-pouco-tempo-a-photo-now-se-tornou-um-grande-sucesso-3-unidades-pr-prias-al-m-de-mais-expandindo-se-para-mais-de-80-franquias-em-todo-o-brasil-sua-presen-a-em-shoppings-aeroportos-e-eventos-refor-a-seu-compromisso-em-registrar-momentos-especiais-de-forma-pr-tica-e-inovadora-com-um-modelo-de-neg-cio-acess-vel-e-tecnologia-de-ponta-a-photo-now-segue-crescendo-oferecendo-oportunidades-para-empreendedores-e-proporcionando-experi-ncias-nicas-para-seus-clientes-span6 {
+  color: #8c73c9;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 146.74%;
+  font-weight: 400;
+}
+.frame-6 {
+  background: #f9a243;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1.1px;
+  padding: 3.29px 638px 3.29px 638px;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  align-items: center;
+  justify-content: center;
+  width: 1658.78px;
+  height: 52.66px;
+  position: absolute;
+  left: -84px;
+  top: 5424.55px;
+  box-shadow: 0px 4px 10.4px 0px rgba(0, 0, 0, 0.17);
+  transform-origin: 0 0;
+  transform: rotate(-2.161deg) scale(1, 1);
+}
+.frame-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 47px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1658.78px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.photo-now {
+  color: #000000;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 21.941518783569336px;
+  font-weight: 400;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.camada-16 {
+  flex-shrink: 0;
+  width: 36.2px;
+  height: 28.52px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  overflow: hidden;
+}
+.group13 {
+  width: 97.85%;
+  height: 87.44%;
+  position: absolute;
+  right: 1.08%;
+  left: 1.08%;
+  bottom: 1.35%;
+  top: 11.21%;
+  transform: translate(0px, -1.34px);
+  overflow: visible;
+}
+.vector25 {
+  width: 22.41%;
+  height: 17.52%;
+  position: absolute;
+  right: 65.76%;
+  left: 11.83%;
+  bottom: 59.11%;
+  top: 23.36%;
+  transform: translate(0.07px, -0.23px);
+  overflow: visible;
+}
+.vector26 {
+  width: 43.12%;
+  height: 54.13%;
+  position: absolute;
+  right: 13.99%;
+  left: 42.9%;
+  bottom: 18.01%;
+  top: 27.86%;
+  transform: translate(0.29px, -0.3px);
+  overflow: visible;
+}
+.vector27 {
+  width: 25.18%;
+  height: 31.61%;
+  position: absolute;
+  right: 22.95%;
+  left: 51.86%;
+  bottom: 29.26%;
+  top: 39.12%;
+  transform: translate(0.17px, -0.18px);
+  overflow: visible;
+}
+.vector28 {
+  width: 16.06%;
+  height: 7.22%;
+  position: absolute;
+  right: 70.16%;
+  left: 13.78%;
+  bottom: 92.78%;
+  top: 0%;
+  transform: translate(0.03px, -0.2px);
+  overflow: visible;
+}
+.vector29 {
+  width: 100%;
+  height: 90.14%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 9.86%;
+  transform: translate(0.16px, -1.2px);
+  overflow: visible;
+}
+.group14 {
+  width: 97.85%;
+  height: 87.44%;
+  position: absolute;
+  right: 1.08%;
+  left: 1.08%;
+  bottom: 1.35%;
+  top: 11.21%;
+  transform: translate(0px, -1.34px);
+  overflow: visible;
+}
+.vector30 {
+  width: 22.41%;
+  height: 17.52%;
+  position: absolute;
+  right: 65.76%;
+  left: 11.83%;
+  bottom: 59.11%;
+  top: 23.36%;
+  transform: translate(0.07px, -0.23px);
+  overflow: visible;
+}
+.vector31 {
+  width: 43.12%;
+  height: 54.13%;
+  position: absolute;
+  right: 13.99%;
+  left: 42.9%;
+  bottom: 18.01%;
+  top: 27.86%;
+  transform: translate(0.29px, -0.3px);
+  overflow: visible;
+}
+.vector32 {
+  width: 25.18%;
+  height: 31.61%;
+  position: absolute;
+  right: 22.95%;
+  left: 51.86%;
+  bottom: 29.26%;
+  top: 39.12%;
+  transform: translate(0.17px, -0.18px);
+  overflow: visible;
+}
+.vector33 {
+  width: 16.06%;
+  height: 7.22%;
+  position: absolute;
+  right: 70.15%;
+  left: 13.78%;
+  bottom: 92.78%;
+  top: 0%;
+  transform: translate(0.03px, -0.2px);
+  overflow: visible;
+}
+.vector34 {
+  width: 100%;
+  height: 90.14%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 9.86%;
+  transform: translate(0.16px, -1.2px);
+  overflow: visible;
+}
+.group15 {
+  width: 97.85%;
+  height: 87.44%;
+  position: absolute;
+  right: 1.08%;
+  left: 1.08%;
+  bottom: 1.35%;
+  top: 11.21%;
+  transform: translate(0px, -1.34px);
+  overflow: visible;
+}
+.vector35 {
+  width: 22.41%;
+  height: 17.52%;
+  position: absolute;
+  right: 65.76%;
+  left: 11.83%;
+  bottom: 59.11%;
+  top: 23.36%;
+  transform: translate(0.07px, -0.23px);
+  overflow: visible;
+}
+.vector36 {
+  width: 43.12%;
+  height: 54.13%;
+  position: absolute;
+  right: 13.99%;
+  left: 42.9%;
+  bottom: 18.01%;
+  top: 27.86%;
+  transform: translate(0.29px, -0.3px);
+  overflow: visible;
+}
+.vector37 {
+  width: 25.18%;
+  height: 31.61%;
+  position: absolute;
+  right: 22.95%;
+  left: 51.86%;
+  bottom: 29.26%;
+  top: 39.12%;
+  transform: translate(0.17px, -0.18px);
+  overflow: visible;
+}
+.vector38 {
+  width: 16.06%;
+  height: 7.22%;
+  position: absolute;
+  right: 70.15%;
+  left: 13.79%;
+  bottom: 92.78%;
+  top: 0%;
+  transform: translate(0.03px, -0.2px);
+  overflow: visible;
+}
+.vector39 {
+  width: 100%;
+  height: 90.14%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 9.86%;
+  transform: translate(0.16px, -1.2px);
+  overflow: visible;
+}
+.camada-17 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: -466.67%;
+  left: 466.67%;
+  bottom: -7.69%;
+  top: 7.69%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  overflow: hidden;
+}
+.group16 {
+  width: 97.85%;
+  height: 87.44%;
+  position: absolute;
+  right: 1.08%;
+  left: 1.08%;
+  bottom: 1.35%;
+  top: 11.21%;
+  overflow: visible;
+}
+.vector40 {
+  width: 22.41%;
+  height: 17.52%;
+  position: absolute;
+  right: 65.76%;
+  left: 11.83%;
+  bottom: 59.11%;
+  top: 23.36%;
+  overflow: visible;
+}
+.vector41 {
+  width: 43.12%;
+  height: 54.13%;
+  position: absolute;
+  right: 13.99%;
+  left: 42.89%;
+  bottom: 18.01%;
+  top: 27.86%;
+  overflow: visible;
+}
+.vector42 {
+  width: 25.18%;
+  height: 31.61%;
+  position: absolute;
+  right: 22.96%;
+  left: 51.86%;
+  bottom: 29.26%;
+  top: 39.12%;
+  overflow: visible;
+}
+.vector43 {
+  width: 16.06%;
+  height: 7.22%;
+  position: absolute;
+  right: 70.15%;
+  left: 13.78%;
+  bottom: 92.78%;
+  top: 0%;
+  overflow: visible;
+}
+.vector44 {
+  width: 100%;
+  height: 90.14%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 9.86%;
+  overflow: visible;
+}
+.group17 {
+  width: 97.85%;
+  height: 87.44%;
+  position: absolute;
+  right: 1.08%;
+  left: 1.08%;
+  bottom: 1.35%;
+  top: 11.21%;
+  transform: translate(0px, -1.34px);
+  overflow: visible;
+}
+.vector45 {
+  width: 22.41%;
+  height: 17.52%;
+  position: absolute;
+  right: 65.76%;
+  left: 11.83%;
+  bottom: 59.11%;
+  top: 23.36%;
+  transform: translate(0.07px, -0.23px);
+  overflow: visible;
+}
+.vector46 {
+  width: 43.12%;
+  height: 54.13%;
+  position: absolute;
+  right: 13.99%;
+  left: 42.9%;
+  bottom: 18.01%;
+  top: 27.86%;
+  transform: translate(0.29px, -0.3px);
+  overflow: visible;
+}
+.vector47 {
+  width: 25.18%;
+  height: 31.61%;
+  position: absolute;
+  right: 22.95%;
+  left: 51.86%;
+  bottom: 29.26%;
+  top: 39.12%;
+  transform: translate(0.17px, -0.18px);
+  overflow: visible;
+}
+.vector48 {
+  width: 16.06%;
+  height: 7.22%;
+  position: absolute;
+  right: 70.15%;
+  left: 13.79%;
+  bottom: 92.78%;
+  top: 0%;
+  transform: translate(0.03px, -0.2px);
+  overflow: visible;
+}
+.vector49 {
+  width: 100%;
+  height: 90.14%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 9.86%;
+  transform: translate(0.16px, -1.2px);
+  overflow: visible;
+}
+.group18 {
+  width: 97.85%;
+  height: 87.44%;
+  position: absolute;
+  right: 1.08%;
+  left: 1.08%;
+  bottom: 1.35%;
+  top: 11.21%;
+  transform: translate(0px, -1.34px);
+  overflow: visible;
+}
+.vector50 {
+  width: 22.41%;
+  height: 17.52%;
+  position: absolute;
+  right: 65.76%;
+  left: 11.83%;
+  bottom: 59.11%;
+  top: 23.36%;
+  transform: translate(0.07px, -0.23px);
+  overflow: visible;
+}
+.vector51 {
+  width: 43.12%;
+  height: 54.13%;
+  position: absolute;
+  right: 13.99%;
+  left: 42.89%;
+  bottom: 18.01%;
+  top: 27.86%;
+  transform: translate(0.29px, -0.3px);
+  overflow: visible;
+}
+.vector52 {
+  width: 25.18%;
+  height: 31.61%;
+  position: absolute;
+  right: 22.96%;
+  left: 51.86%;
+  bottom: 29.26%;
+  top: 39.12%;
+  transform: translate(0.17px, -0.18px);
+  overflow: visible;
+}
+.vector53 {
+  width: 16.06%;
+  height: 7.22%;
+  position: absolute;
+  right: 70.15%;
+  left: 13.78%;
+  bottom: 92.78%;
+  top: 0%;
+  transform: translate(0.03px, -0.2px);
+  overflow: visible;
+}
+.vector54 {
+  width: 100%;
+  height: 90.14%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 9.86%;
+  transform: translate(0.16px, -1.2px);
+  overflow: visible;
+}
+.group19 {
+  width: 97.85%;
+  height: 87.44%;
+  position: absolute;
+  right: 1.08%;
+  left: 1.08%;
+  bottom: 1.35%;
+  top: 11.21%;
+  transform: translate(0px, -1.34px);
+  overflow: visible;
+}
+.vector55 {
+  width: 22.41%;
+  height: 17.52%;
+  position: absolute;
+  right: 65.76%;
+  left: 11.83%;
+  bottom: 59.11%;
+  top: 23.36%;
+  transform: translate(0.07px, -0.23px);
+  overflow: visible;
+}
+.vector56 {
+  width: 43.12%;
+  height: 54.13%;
+  position: absolute;
+  right: 13.99%;
+  left: 42.89%;
+  bottom: 18.01%;
+  top: 27.86%;
+  transform: translate(0.29px, -0.3px);
+  overflow: visible;
+}
+.vector57 {
+  width: 25.18%;
+  height: 31.61%;
+  position: absolute;
+  right: 22.95%;
+  left: 51.86%;
+  bottom: 29.26%;
+  top: 39.12%;
+  transform: translate(0.17px, -0.18px);
+  overflow: visible;
+}
+.vector58 {
+  width: 16.06%;
+  height: 7.22%;
+  position: absolute;
+  right: 70.15%;
+  left: 13.79%;
+  bottom: 92.78%;
+  top: 0%;
+  transform: translate(0.03px, -0.2px);
+  overflow: visible;
+}
+.vector59 {
+  width: 100%;
+  height: 90.14%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 9.86%;
+  transform: translate(0.16px, -1.2px);
+  overflow: visible;
+}
+.group20 {
+  width: 97.85%;
+  height: 87.44%;
+  position: absolute;
+  right: 1.08%;
+  left: 1.08%;
+  bottom: 1.35%;
+  top: 11.21%;
+  overflow: visible;
+}
+.vector60 {
+  width: 22.41%;
+  height: 17.52%;
+  position: absolute;
+  right: 65.76%;
+  left: 11.83%;
+  bottom: 59.11%;
+  top: 23.36%;
+  overflow: visible;
+}
+.vector61 {
+  width: 43.12%;
+  height: 54.13%;
+  position: absolute;
+  right: 13.99%;
+  left: 42.89%;
+  bottom: 18.01%;
+  top: 27.86%;
+  overflow: visible;
+}
+.vector62 {
+  width: 25.18%;
+  height: 31.61%;
+  position: absolute;
+  right: 22.95%;
+  left: 51.86%;
+  bottom: 29.26%;
+  top: 39.12%;
+  overflow: visible;
+}
+.vector63 {
+  width: 16.06%;
+  height: 7.22%;
+  position: absolute;
+  right: 70.15%;
+  left: 13.79%;
+  bottom: 92.78%;
+  top: 0%;
+  overflow: visible;
+}
+.vector64 {
+  width: 100%;
+  height: 90.14%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 9.86%;
+  overflow: visible;
+}
+.frame-7 {
+  background: #f9a243;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1.1px;
+  padding: 3.29px 638px 3.29px 638px;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  align-items: center;
+  justify-content: center;
+  width: 1658.78px;
+  height: 52.66px;
+  position: absolute;
+  left: -61.55px;
+  top: 5357px;
+  box-shadow: 0px 4px 10.4px 0px rgba(0, 0, 0, 0.17);
+  transform-origin: 0 0;
+  transform: rotate(2.667deg) scale(1, 1);
+}
+.group21 {
+  width: 97.85%;
+  height: 87.44%;
+  position: absolute;
+  right: 1.08%;
+  left: 1.08%;
+  bottom: 1.35%;
+  top: 11.21%;
+  transform: translate(-1.16px, 0px);
+  overflow: visible;
+}
+.vector65 {
+  width: 22.41%;
+  height: 17.52%;
+  position: absolute;
+  right: 65.76%;
+  left: 11.83%;
+  bottom: 59.11%;
+  top: 23.36%;
+  transform: translate(-0.14px, 0.09px);
+  overflow: visible;
+}
+.vector66 {
+  width: 43.12%;
+  height: 54.13%;
+  position: absolute;
+  right: 13.99%;
+  left: 42.9%;
+  bottom: 18.01%;
+  top: 27.86%;
+  transform: translate(-0.37px, 0.35px);
+  overflow: visible;
+}
+.vector67 {
+  width: 25.18%;
+  height: 31.61%;
+  position: absolute;
+  right: 22.95%;
+  left: 51.86%;
+  bottom: 29.26%;
+  top: 39.12%;
+  transform: translate(-0.21px, 0.21px);
+  overflow: visible;
+}
+.vector68 {
+  width: 16.06%;
+  height: 7.22%;
+  position: absolute;
+  right: 70.16%;
+  left: 13.78%;
+  bottom: 92.78%;
+  top: 0%;
+  transform: translate(-0.06px, 0.03px);
+  overflow: visible;
+}
+.vector69 {
+  width: 100%;
+  height: 90.14%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 9.86%;
+  transform: translate(-1px, 0.2px);
+  overflow: visible;
+}
+.group22 {
+  width: 97.85%;
+  height: 87.44%;
+  position: absolute;
+  right: 1.08%;
+  left: 1.08%;
+  bottom: 1.35%;
+  top: 11.21%;
+  transform: translate(-1.16px, 0px);
+  overflow: visible;
+}
+.vector70 {
+  width: 22.41%;
+  height: 17.52%;
+  position: absolute;
+  right: 65.76%;
+  left: 11.83%;
+  bottom: 59.11%;
+  top: 23.36%;
+  transform: translate(-0.14px, 0.09px);
+  overflow: visible;
+}
+.vector71 {
+  width: 43.12%;
+  height: 54.13%;
+  position: absolute;
+  right: 13.99%;
+  left: 42.9%;
+  bottom: 18.01%;
+  top: 27.86%;
+  transform: translate(-0.37px, 0.35px);
+  overflow: visible;
+}
+.vector72 {
+  width: 25.18%;
+  height: 31.61%;
+  position: absolute;
+  right: 22.95%;
+  left: 51.86%;
+  bottom: 29.26%;
+  top: 39.12%;
+  transform: translate(-0.21px, 0.21px);
+  overflow: visible;
+}
+.vector73 {
+  width: 16.06%;
+  height: 7.22%;
+  position: absolute;
+  right: 70.15%;
+  left: 13.78%;
+  bottom: 92.78%;
+  top: 0%;
+  transform: translate(-0.06px, 0.03px);
+  overflow: visible;
+}
+.vector74 {
+  width: 100%;
+  height: 90.14%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 9.86%;
+  transform: translate(-1px, 0.2px);
+  overflow: visible;
+}
+.group23 {
+  width: 97.85%;
+  height: 87.44%;
+  position: absolute;
+  right: 1.08%;
+  left: 1.08%;
+  bottom: 1.35%;
+  top: 11.21%;
+  transform: translate(-1.16px, 0px);
+  overflow: visible;
+}
+.vector75 {
+  width: 22.41%;
+  height: 17.52%;
+  position: absolute;
+  right: 65.76%;
+  left: 11.83%;
+  bottom: 59.11%;
+  top: 23.36%;
+  transform: translate(-0.14px, 0.09px);
+  overflow: visible;
+}
+.vector76 {
+  width: 43.12%;
+  height: 54.13%;
+  position: absolute;
+  right: 13.99%;
+  left: 42.9%;
+  bottom: 18.01%;
+  top: 27.86%;
+  transform: translate(-0.37px, 0.35px);
+  overflow: visible;
+}
+.vector77 {
+  width: 25.18%;
+  height: 31.61%;
+  position: absolute;
+  right: 22.95%;
+  left: 51.86%;
+  bottom: 29.26%;
+  top: 39.12%;
+  transform: translate(-0.21px, 0.21px);
+  overflow: visible;
+}
+.vector78 {
+  width: 16.06%;
+  height: 7.22%;
+  position: absolute;
+  right: 70.15%;
+  left: 13.79%;
+  bottom: 92.78%;
+  top: 0%;
+  transform: translate(-0.06px, 0.03px);
+  overflow: visible;
+}
+.vector79 {
+  width: 100%;
+  height: 90.14%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 9.86%;
+  transform: translate(-1px, 0.2px);
+  overflow: visible;
+}
+.group24 {
+  width: 97.85%;
+  height: 87.44%;
+  position: absolute;
+  right: 1.08%;
+  left: 1.08%;
+  bottom: 1.35%;
+  top: 11.21%;
+  overflow: visible;
+}
+.vector80 {
+  width: 22.41%;
+  height: 17.52%;
+  position: absolute;
+  right: 65.76%;
+  left: 11.83%;
+  bottom: 59.11%;
+  top: 23.36%;
+  overflow: visible;
+}
+.vector81 {
+  width: 43.12%;
+  height: 54.13%;
+  position: absolute;
+  right: 13.99%;
+  left: 42.89%;
+  bottom: 18.01%;
+  top: 27.86%;
+  overflow: visible;
+}
+.vector82 {
+  width: 25.18%;
+  height: 31.61%;
+  position: absolute;
+  right: 22.96%;
+  left: 51.86%;
+  bottom: 29.26%;
+  top: 39.12%;
+  overflow: visible;
+}
+.vector83 {
+  width: 16.06%;
+  height: 7.22%;
+  position: absolute;
+  right: 70.15%;
+  left: 13.78%;
+  bottom: 92.78%;
+  top: 0%;
+  overflow: visible;
+}
+.vector84 {
+  width: 100%;
+  height: 90.14%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 9.86%;
+  overflow: visible;
+}
+.group25 {
+  width: 97.85%;
+  height: 87.44%;
+  position: absolute;
+  right: 1.08%;
+  left: 1.08%;
+  bottom: 1.35%;
+  top: 11.21%;
+  transform: translate(-1.16px, 0px);
+  overflow: visible;
+}
+.vector85 {
+  width: 22.41%;
+  height: 17.52%;
+  position: absolute;
+  right: 65.76%;
+  left: 11.83%;
+  bottom: 59.11%;
+  top: 23.36%;
+  transform: translate(-0.14px, 0.09px);
+  overflow: visible;
+}
+.vector86 {
+  width: 43.12%;
+  height: 54.13%;
+  position: absolute;
+  right: 13.99%;
+  left: 42.9%;
+  bottom: 18.01%;
+  top: 27.86%;
+  transform: translate(-0.37px, 0.35px);
+  overflow: visible;
+}
+.vector87 {
+  width: 25.18%;
+  height: 31.61%;
+  position: absolute;
+  right: 22.95%;
+  left: 51.86%;
+  bottom: 29.26%;
+  top: 39.12%;
+  transform: translate(-0.21px, 0.21px);
+  overflow: visible;
+}
+.vector88 {
+  width: 16.06%;
+  height: 7.22%;
+  position: absolute;
+  right: 70.15%;
+  left: 13.79%;
+  bottom: 92.78%;
+  top: 0%;
+  transform: translate(-0.06px, 0.03px);
+  overflow: visible;
+}
+.vector89 {
+  width: 100%;
+  height: 90.14%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 9.86%;
+  transform: translate(-1px, 0.2px);
+  overflow: visible;
+}
+.group26 {
+  width: 97.85%;
+  height: 87.44%;
+  position: absolute;
+  right: 1.08%;
+  left: 1.08%;
+  bottom: 1.35%;
+  top: 11.21%;
+  transform: translate(-1.16px, 0px);
+  overflow: visible;
+}
+.vector90 {
+  width: 22.41%;
+  height: 17.52%;
+  position: absolute;
+  right: 65.76%;
+  left: 11.83%;
+  bottom: 59.11%;
+  top: 23.36%;
+  transform: translate(-0.14px, 0.09px);
+  overflow: visible;
+}
+.vector91 {
+  width: 43.12%;
+  height: 54.13%;
+  position: absolute;
+  right: 13.99%;
+  left: 42.89%;
+  bottom: 18.01%;
+  top: 27.86%;
+  transform: translate(-0.37px, 0.35px);
+  overflow: visible;
+}
+.vector92 {
+  width: 25.18%;
+  height: 31.61%;
+  position: absolute;
+  right: 22.96%;
+  left: 51.86%;
+  bottom: 29.26%;
+  top: 39.12%;
+  transform: translate(-0.21px, 0.21px);
+  overflow: visible;
+}
+.vector93 {
+  width: 16.06%;
+  height: 7.22%;
+  position: absolute;
+  right: 70.15%;
+  left: 13.78%;
+  bottom: 92.78%;
+  top: 0%;
+  transform: translate(-0.06px, 0.03px);
+  overflow: visible;
+}
+.vector94 {
+  width: 100%;
+  height: 90.14%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 9.86%;
+  transform: translate(-1px, 0.2px);
+  overflow: visible;
+}
+.group27 {
+  width: 97.85%;
+  height: 87.44%;
+  position: absolute;
+  right: 1.08%;
+  left: 1.08%;
+  bottom: 1.35%;
+  top: 11.21%;
+  transform: translate(-1.16px, 0px);
+  overflow: visible;
+}
+.vector95 {
+  width: 22.41%;
+  height: 17.52%;
+  position: absolute;
+  right: 65.76%;
+  left: 11.83%;
+  bottom: 59.11%;
+  top: 23.36%;
+  transform: translate(-0.14px, 0.09px);
+  overflow: visible;
+}
+.vector96 {
+  width: 43.12%;
+  height: 54.13%;
+  position: absolute;
+  right: 13.99%;
+  left: 42.89%;
+  bottom: 18.01%;
+  top: 27.86%;
+  transform: translate(-0.37px, 0.35px);
+  overflow: visible;
+}
+.vector97 {
+  width: 25.18%;
+  height: 31.61%;
+  position: absolute;
+  right: 22.95%;
+  left: 51.86%;
+  bottom: 29.26%;
+  top: 39.12%;
+  transform: translate(-0.21px, 0.21px);
+  overflow: visible;
+}
+.vector98 {
+  width: 16.06%;
+  height: 7.22%;
+  position: absolute;
+  right: 70.15%;
+  left: 13.79%;
+  bottom: 92.78%;
+  top: 0%;
+  transform: translate(-0.06px, 0.03px);
+  overflow: visible;
+}
+.vector99 {
+  width: 100%;
+  height: 90.14%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 9.86%;
+  transform: translate(-1px, 0.2px);
+  overflow: visible;
+}
+.group28 {
+  width: 97.85%;
+  height: 87.44%;
+  position: absolute;
+  right: 1.08%;
+  left: 1.08%;
+  bottom: 1.35%;
+  top: 11.21%;
+  overflow: visible;
+}
+.vector100 {
+  width: 22.41%;
+  height: 17.52%;
+  position: absolute;
+  right: 65.76%;
+  left: 11.83%;
+  bottom: 59.11%;
+  top: 23.36%;
+  overflow: visible;
+}
+.vector101 {
+  width: 43.12%;
+  height: 54.13%;
+  position: absolute;
+  right: 13.99%;
+  left: 42.89%;
+  bottom: 18.01%;
+  top: 27.86%;
+  overflow: visible;
+}
+.vector102 {
+  width: 25.18%;
+  height: 31.61%;
+  position: absolute;
+  right: 22.95%;
+  left: 51.86%;
+  bottom: 29.26%;
+  top: 39.12%;
+  overflow: visible;
+}
+.vector103 {
+  width: 16.06%;
+  height: 7.22%;
+  position: absolute;
+  right: 70.15%;
+  left: 13.79%;
+  bottom: 92.78%;
+  top: 0%;
+  overflow: visible;
+}
+.vector104 {
+  width: 100%;
+  height: 90.14%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 9.86%;
+  overflow: visible;
+}
+.frame-21 {
+  background: #f2eff9;
+  border-radius: 20px 0px 0px 20px;
+  padding: 9px 22px 9px 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 195px;
+  height: 116px;
+  position: sticky;
+  left: 1317px;
+  top: 86px;
+}
+.frame-22 {
+  flex-shrink: 0;
+  width: 112px;
+  height: 28px;
+  position: relative;
+}
+.shopping-cart {
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.carrinho {
+  color: #e72f63;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16.832578659057617px;
+  font-weight: 400;
+  position: absolute;
+  left: 38px;
+  top: 3px;
+}
+.acessar-pedidos {
+  color: #e72f63;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16.832578659057617px;
+  font-weight: 400;
+  position: relative;
+}
+.acessar-pedidos-span {
+  color: #e72f63;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16.832578659057617px;
+  font-weight: 400;
+}
+.acessar-pedidos-span2 {
+  color: #e72f63;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16.832578659057617px;
+  font-weight: 400;
+  text-decoration: underline;
+}
