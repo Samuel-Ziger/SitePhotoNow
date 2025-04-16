@@ -446,11 +446,11 @@
             <div class="navbar">
               <div class="text-wrapper-18">LOGIN</div>
               <img class="line-9" />
-              <div class="text-wrapper-18" onclick="location.href='maps.vue';" style="cursor: pointer;">ONDE ESTAMOS</div>
+              <router-link to="/maps" class="text-wrapper-18">ONDE ESTAMOS</router-link>
               <img class="line-9" />
-              <div class="text-wrapper-18" onclick="location.href='loja.vue';" style="cursor: pointer;">LOJA</div>
+              <router-link to="/loja" class="text-wrapper-18">LOJA</router-link>
               <img class="line-9" />
-              <div class="text-wrapper-18" onclick="location.href='sobre.vue';" style="cursor: pointer;">A PHOTO NOW</div>
+              <router-link to="/sobre" class="text-wrapper-18">A PHOTO NOW</router-link>
               <img class="line-9" />
               <div class="text-wrapper-18">ÁREA DO PARCEIRO</div>
             </div>

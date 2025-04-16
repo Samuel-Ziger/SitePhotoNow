@@ -1,7 +1,9 @@
 <template>
   <header>
     <nav>
-      <!-- Links removidos conforme solicitado -->
+      <div class="nav-links">
+        <!-- Links removidos conforme solicitado -->
+      </div>
     </nav>
   </header>
 </template>
