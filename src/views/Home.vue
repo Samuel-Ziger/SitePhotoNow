@@ -67,7 +67,7 @@
           </div>
         </div>
         <div class="overlap-4">
-          <img class="pattern-png" />
+          <img class="pattern-png" src="../img/mexida.png" />
           <div class="rectangle"></div>
           <div class="div-wrapper">
             <div class="overlap-group-3">
@@ -311,9 +311,9 @@
             </p>
             <img class="line" />
           </div>
-          <img class="image" />
+          <img class="image" src="../img/image.png" />
           <img class="rectangle-4" />
-          <img class="mask-group" />
+          <img class="mask-group" src="" />
           <div class="rectangle-5"></div>
           <img class="autoplay" />
           <div class="rectangle-6"></div>
