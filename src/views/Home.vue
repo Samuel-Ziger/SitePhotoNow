@@ -15,7 +15,7 @@
                 <div class="group-3">
                   <img class="group-4" />
                   <img class="group-5" />
-                  <img class="group-6" />
+                  <img class="group-6" src="" />
                   <img class="group-7" />
                   <img class="group-8" />
                 </div>
@@ -73,14 +73,14 @@
             <div class="overlap-group-3">
               <img class="vector-13" />
               <img class="vector-14" />
-              <img class="element" />
+              <img class="element" src="../img/totem1.png" />
             </div>
           </div>
           <div class="group-21">
             <div class="overlap-5">
               <img class="vector-15" />
               <img class="vector-16" />
-              <img class="element-2" />
+              <img class="element-2" src="../img/totem2.png" />
             </div>
           </div>
           <div class="rectangle-2"></div>
