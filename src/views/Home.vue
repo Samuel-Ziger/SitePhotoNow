@@ -86,7 +86,7 @@
           <div class="rectangle-2"></div>
           <div class="group-22">
             <p class="p">
-              <span class="text-wrapper-2">uma franquia <br /></span>
+              <span class="text-wrapper-2">Uma rede de totens <br /></span>
               <span class="text-wrapper-3">única</span>
             </p>
             <img class="line" />
@@ -296,9 +296,8 @@
           </div>
           <p class="text-wrapper-8">
             De totens fotográficos do Brasil
-            Com mais de 100 pontos ativos em todo o país, a PhotoNow é referência em inovação no mercado de fotografia instantânea.
-            Nossos totens são 100% autogerenciáveis, ou seja, não exigem operadores para funcionar — o que garante uma operação simples, escalável e altamente lucrativa.
-            
+            Com mais de 100 pontos ativos em todo o país, a PhotoNow é referência em inovação no mercado de fotografia instantânea.<br />
+            Nossos totens são 100% autogerenciáveis, ou seja, não exigem operadores para funcionar — o que garante uma operação simples, escalável e altamente lucrativa.<br />
             Com faturamento que pode chegar a R$ 24.000,00 por mês, os totens PhotoNow são ideais para locais de grande circulação como shoppings, aeroportos, pontos turísticos, restaurantes e muito mais.
           </p>
           <img class="line-2" />
@@ -367,14 +366,18 @@
           </p>
           <div class="flexcontainer">
             <p class="text">
-              <span class="text-wrapper-15">&nbsp;&nbsp; lorem<br /></span>
+              <span class="text-wrapper-15">&nbsp;&nbsp; Nossos <br /></span>
             </p>
-            <p class="text"><span class="text-wrapper-16">ipsum</span></p>
+            <p class="text"><span class="text-wrapper-16">Produtos</span></p>
           </div>
-          <p class="text-wrapper-17">
-            Amizade Mais que uma mão estendida, mais que um belo sorriso, mais do que a alegria de dividir, mais do que
-            sonhar os mesmos sonhos, ou doer as mesmas dores. Muito mais do que o silêncio que fala ou da voz que cala
-            para ouvir, é a amizade o alimento que nos sacia a alma e nos é ofertado por alguém que crê em nós.
+          <p class="text-wrapper-17" style="font-size: 14px;">
+            Em um mundo cada vez mais digital e passageiro, segurar uma foto nas mãos é como segurar um pedaço do tempo.
+            É diferente. É real. É eterno.<br />
+            A fotografia física carrega histórias, sentimentos e memórias que atravessam gerações. Ela vai além da tela do celular — ocupa um espaço na geladeira, no porta-retratos da sala, na carteira, no coração.
+            Com a PhotoNow, você não está apenas entrando em um negócio.<br />
+            Você está entrando no universo da emoção, da saudade, da conexão humana.<br />
+            Nossos totens são mais do que máquinas — são pontos de encontro entre pessoas e lembranças.<br />
+            E o melhor: com uma operação 100% autogerenciável, você transforma momentos em lucro, sem precisar estar presente.
           </p>
           <div class="rectangle-12"></div>
           <img class="health-and-safety" />
@@ -382,7 +385,7 @@
           <img class="cleaning-bucket" />
           <img class="download-done" />
           <img class="star-shine" />
-          <img class="line-3" />
+          <img class="line-3" src="../img/autoplay@2x.png" />
           <img class="line-4" />
           <img class="line-5" />
           <img class="line-6" />
@@ -398,15 +401,10 @@
               <img class="vector-38" />
             </div>
           </div>
-          <img class="camada-6" />
-          <img class="camada-7" />
+          <img class="camada-6" /> <!-- aqui fica a camera ou o flash -->
+          <img class="camada-7" /> <!-- aqui fica a camera ou o flash -->
           <div class="MENU">
             <div class="camada-8">
-              <img class="vector" />
-              <img class="img" />
-              <img class="vector-2" />
-              <img class="vector-3" />
-              <img class="vector-4" />
               <div class="overlap-group">
                 <img class="group" />
                 <img class="group-2" />
@@ -435,8 +433,9 @@
                 </div>
               </div>
               <div class="overlap-2">
-             
-                <img class="vector-11" src="../img/logonavbar.png"/>
+                <a href="/loja">
+                  <img class="vector-11" src="../img/logonavbar.png" alt="Logo">
+                </a>
               </div>
               
             </div>
