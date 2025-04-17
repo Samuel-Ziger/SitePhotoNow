@@ -309,11 +309,12 @@
   
   .home .vector-11 {
     position: absolute;
-    width: 70px;
-    height: 51px;
-    top: 0;
-    left: 0;
+    width: 200px;
+    height: 60px;
+    top: -10;
+    left: -50px; 
   }
+  
   
   .home .vector-12 {
     position: absolute;
@@ -604,7 +605,8 @@
   .home .lorem-ipsum {
     position: absolute;
     top: 0;
-    left: 0;
+    left: 15%;
+    transform: translateX(-50%);
     font-family: "Poppins-Light", Helvetica;
     font-weight: 400;
     color: #11171f;
@@ -614,6 +616,7 @@
     line-height: 41.4px;
     white-space: nowrap;
   }
+  
   
   .home .text-wrapper-4 {
     font-weight: 300;

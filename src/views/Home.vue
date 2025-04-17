@@ -92,7 +92,7 @@
             <img class="line" />
           </div>
           <div class="lorem-ipsum-wrapper">
-            <p class="lorem-ipsum"><span class="text-wrapper-4">Sobre</span> <span class="span"> A maior e rede de totem </span></p>
+            <p class="lorem-ipsum"><span class="text-wrapper-4">Sobre</span> <span class="span"> A maior e rede de</span></p>
           </div>
           <div class="group-23">
             <div class="overlap-6"><div class="text-wrapper-5">Saiba mais</div></div>
@@ -311,7 +311,7 @@
             </p>
             <img class="line" />
           </div>
-          <img class="image" src="../img/video.gif" />
+          <img class="image" src="../img/image.png" />
           <img class="rectangle-4" />
           <img class="mask-group" src="" />
           <div class="rectangle-5"></div>
@@ -435,17 +435,14 @@
                 </div>
               </div>
               <div class="overlap-2">
-                <img class="group-18" />
-                <img class="vector-8" />
-                <img class="vector-9" />
-                <img class="vector-10" />
-                <img class="vector-11" />
+             
+                <img class="vector-11" src="../img/logonavbar.png"/>
               </div>
-              <img class="vector-12" />
+              
             </div>
             <div class="navbar">
               <div class="text-wrapper-18">LOGIN</div>
-              <img class="line-9" />
+              
               <router-link to="/maps" class="text-wrapper-18">ONDE ESTAMOS</router-link>
               <img class="line-9" />
               <router-link to="/loja" class="text-wrapper-18">LOJA</router-link>
