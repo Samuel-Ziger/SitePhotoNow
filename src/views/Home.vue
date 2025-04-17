@@ -92,7 +92,7 @@
             <img class="line" />
           </div>
           <div class="lorem-ipsum-wrapper">
-            <p class="lorem-ipsum"><span class="text-wrapper-4">lorem</span> <span class="span"> ipsum</span></p>
+            <p class="lorem-ipsum"><span class="text-wrapper-4">Sobre</span> <span class="span"> A maior e rede de totem </span></p>
           </div>
           <div class="group-23">
             <div class="overlap-6"><div class="text-wrapper-5">Saiba mais</div></div>
@@ -295,7 +295,7 @@
             </div>
           </div>
           <p class="text-wrapper-8">
-            A maior rede de totens fotográficos do Brasil
+            De totens fotográficos do Brasil
             Com mais de 100 pontos ativos em todo o país, a PhotoNow é referência em inovação no mercado de fotografia instantânea.
             Nossos totens são 100% autogerenciáveis, ou seja, não exigem operadores para funcionar — o que garante uma operação simples, escalável e altamente lucrativa.
             
@@ -311,7 +311,7 @@
             </p>
             <img class="line" />
           </div>
-          <img class="image" src="../img/image.png" />
+          <img class="image" src="../img/video.gif" />
           <img class="rectangle-4" />
           <img class="mask-group" src="" />
           <div class="rectangle-5"></div>
@@ -472,5 +472,10 @@ export default {
 @import '../assets/css/styleguide.css';
 @import '../assets/css/style.css';
 
-/* Seu CSS aqui */
+.image {
+  border-radius: 15px;
+  transform: perspective(800px) rotateY(4deg) rotateX(-1deg);
+  transform-style: preserve-3d;
+}
+
 </style>
